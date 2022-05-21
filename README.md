@@ -5,8 +5,9 @@ Lab work on studying the basics of object-oriented programming in Java.
 * public abstract void init(Scanner scanner) 	// считывание параметров с консоли
 * public abstract String getCost()	// возвращает  стоимость
 * public String toString() 		// возвращается состояние объекта в виде строки // (определяется только в наследниках, т.к. определен в 				// Object) 
-Построить иерархию классов: 
 
+
+Построить иерархию классов: 
 - Бытовая техника
     - Газовая плита.
     - Электронная техника
